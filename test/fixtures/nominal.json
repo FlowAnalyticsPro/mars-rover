@@ -1,0 +1,6 @@
+{
+  "map": [["🟩", "🟩", "🟩"]],
+  "start": {"x": 0, "y": 0},
+  "orientation": "E",
+  "commands": ["F", "F"]
+}
